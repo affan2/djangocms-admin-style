@@ -434,3 +434,6 @@ nav ul, nav li { margin: 0; list-style: none; list-style-image: none; }
   .selector select[multiple], .selector select { max-width: none; width: 100%; }
   .selector label { display: inline-block; }
   .selector .selector-available input, .selector .selector-chosen input { width: auto; } }
+
+#id_tags, #id_topics { width:100% }
+
