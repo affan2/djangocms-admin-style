@@ -435,5 +435,5 @@ nav ul, nav li { margin: 0; list-style: none; list-style-image: none; }
   .selector label { display: inline-block; }
   .selector .selector-available input, .selector .selector-chosen input { width: auto; } }
 
-#id_tags, #id_topics { width:100% }
+#id_tags, #id_topics, #id_user_profile-0-skills { width:80% }
 
