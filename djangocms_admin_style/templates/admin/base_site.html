@@ -15,9 +15,9 @@
 if (window.self!==window.top) { document.write('<link rel="stylesheet" type="text/css" href="{% static 'djangocms_admin_style/css/djangocms-admin-frontend.css' %}" />'); }
 </script>
 <style type="text/css">
-    input.vTextField, input.vURLField {
-        width: 100%;
-    }
+.form-row input.vTextField, .form-row input.vURLField {
+    width: 100%;
+}
 </style>
 {% include 'admin/inc/extrahead.html' %}{% endblock %}
 
